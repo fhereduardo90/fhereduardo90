@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Ravn](https://www.ravn.co/)
 - 🌱 I’m currently learning [Elixir](https://elixir-lang.org/)
-- 👯 I’m looking to collaborate on Startups and projects related to finance and cryptocurrencies
+- 👯 I’m looking to collaborate on startups and projects related to finance and cryptocurrencies
 - 💬 Ask me about ...
 - 📫 How to reach me:
   - fhereduardo90@gmail.com
