@@ -8,7 +8,7 @@ Full-Stack Developer and Old Man Dev
 * ✉️  You can contact me at [fhereduardo90@gmail.com](mailto:fhereduardo90@gmail.com)
 * 🚀  I'm currently working on [Ravn](http://www.ravn.co/)
 * 🧠  I'm learning Scala
-* 🤝  I'm open to collaborating on baking software, open source, crypto, and distributed systems
+* 🤝  I'm open to collaborating on banking software, open source, crypto, and distributed systems
 * ⚡  Addicted to caffeine ☕, weightlifting 🏋️, and taking me out of the comfort zone 🧠
 
 ### Skills
