@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/fher_eduardo" target="blank"><img src="https://img.shields.io/twitter/follow/fher_eduardo?logo=twitter&style=for-the-badge" alt="fher_eduardo" /></a> </p>
 
-- <strike>🔭 I’m currently working on Ravn. [http://ravn.co/](http://ravn.co/)</strike>
+- 🔭 I’m currently working on [Raya The App](https://www.rayatheapp.com/) & [General Assembly](https://generalassemb.ly/)
 
-- 🌱 I’m currently learning **Scala and Functional Programming.**
+- 🌱 I’m currently learning [Golang](https://go.dev/).
 
 - 📝 I regularly write articles on [https://old-man-dev.medium.com/](https://old-man-dev.medium.com/)
 
