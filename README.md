@@ -7,11 +7,11 @@
 
 - 🔭 Senior Software Developer @ [Raya The App](https://www.rayatheapp.com/) & [General Assembly](https://generalassemb.ly/)
 
-- 🌱 I’m currently learning [Golang](https://go.dev/).
+- 🌱 I’m currently learning [Golang](https://go.dev/) & [k8s](https://kubernetes.io/).
 
 - 📝 I regularly write articles on [https://old-man-dev.medium.com/](https://old-man-dev.medium.com/)
 
-- 💬 Ask me about **RoR, NodeJS, SQL, AWS, React, and TypeScript.**
+- 💬 Ask me about **RoR, NodeJS, SQL, AWS, React, Golang, and TypeScript.**
 
 - 📫 How to reach me **fhereduardo90@gmail.com**
 
