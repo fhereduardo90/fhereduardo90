@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fher_eduardo" target="blank"><img src="https://img.shields.io/twitter/follow/fher_eduardo?logo=twitter&style=for-the-badge" alt="fher_eduardo" /></a> </p>
 
-- 🔭 Senior Software Developer @ [Raya The App](https://www.rayatheapp.com/) & [General Assembly](https://generalassemb.ly/)
+- 🔭 Senior Software Developer
 
 - 🌱 I’m currently learning [Golang](https://go.dev/) & [k8s](https://kubernetes.io/).
 
