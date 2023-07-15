@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning [Golang](https://go.dev/) & [k8s](https://kubernetes.io/).
 
-- 📝 I regularly write articles on [https://old-man-dev.medium.com/](https://old-man-dev.medium.com/)
+- 📝 I occasionally share my thoughts on [https://old-man-dev.medium.com/](https://old-man-dev.medium.com/)
 
 - 💬 Ask me about **RoR, NodeJS, SQL, AWS, React, Golang, and TypeScript.**
 
